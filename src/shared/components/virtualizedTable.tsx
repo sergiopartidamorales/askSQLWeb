@@ -44,7 +44,7 @@ const VirtualizedTable = React.memo(({ rows }: VirtualizedTableProps) => {
 							return (
 								<tr key={virtualRow.index}>
 									{columns.map((col) => (
-										<td key={`${virtualRow.index}-${col}`}>
+										<td  key={`${virtualRow.index}-${col}`}>
 											{formatCellValue(row[col])}
 										</td>
 									))}
