@@ -1,7 +1,9 @@
 ﻿# AskSqlWeb Client Agent
 
 ## Demo
-[Download the demo video](demo.mp4)
+The demo video is included in the repo as `demo.mp4`. GitHub may not preview large media files, so to view it:
+- clone/download the project locally
+- open `client-agent/demo.mp4` in your video player
 
 
 ## Solution Architecture
@@ -187,4 +189,3 @@ VITE_API_BASE=http://localhost:8080/api
 UNLICENSED (private package)
 
 Built with: React 19, TypeScript, Vite, Sass, Vitest.
-
