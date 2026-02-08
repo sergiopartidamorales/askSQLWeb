@@ -1,9 +1,6 @@
 ﻿# AskSqlWeb Client Agent
 
 ## Demo
-If your Markdown viewer supports it, the video should play inline. Otherwise, use the link below.
-
-<video src="demo.mp4" controls></video>
 [Download the demo video](demo.mp4)
 
 
@@ -190,5 +187,4 @@ VITE_API_BASE=http://localhost:8080/api
 UNLICENSED (private package)
 
 Built with: React 19, TypeScript, Vite, Sass, Vitest.
-
 
