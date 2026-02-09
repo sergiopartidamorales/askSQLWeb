@@ -173,16 +173,12 @@ VITE_API_BASE=http://localhost:8080/api
 6. Unit and component tests with Vitest.
 7. Accessible markup and roles in UI components.
 
-## Future Enhancements
+## Future Enhancements for this approach
 
-- Query history and bookmarks.
-- SQL syntax highlighting in streaming display.
 - Export results (CSV, JSON, Excel).
 - Advanced filtering and sorting in table.
-- Dark mode support.
-- WebSocket fallback for SSE.
-- Retry logic for failed requests.
 - Caching frequently used queries.
+- Extend to proper data visualization with dashboards with charts and tables. 
 
 ## License
 
